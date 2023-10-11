@@ -1,3 +1,4 @@
 # Demo
-This is my First Git Repository
-author-Sai Rama
+This is my First Git Repository.
+<br>
+Author-Sai Rama
